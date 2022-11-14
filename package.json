@@ -4,8 +4,8 @@
     "url": "https://github.com/phonowell/ffxiv-script/issues"
   },
   "dependencies": {
-    "coffee-ahk": "0.0.26",
-    "fire-keeper": "0.0.185",
+    "coffee-ahk": "0.0.50",
+    "fire-keeper": "0.0.208",
     "ts-node": "^9.1.1",
     "typescript": "^4.1.3"
   },
